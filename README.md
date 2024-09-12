@@ -20,3 +20,6 @@ Principios de Composición y Diseño.
 Maestro: Roberto Melo.
 Aprendimos como utilizar procesos basicos de *Photoshop* asi como explicaciones sobre imagen, perspectivas, balance de color, etc.
 
+Ingles B2.
+Maestro: Gonzalo Lezana.
+Solo repasamos en *Present Simple* y el *Present Continuous* (Solo tuvimos 4 clases en el parcial).
