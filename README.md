@@ -16,3 +16,7 @@ Proyecto Semestral 2 (App).
 Maestro: Sebastián Mejia.
 Estovimos viendo como crear documentos mas detallados utilizando *Overleaf*.
 
+Principios de Composición y Diseño.
+Maestro: Roberto Melo.
+Aprendimos como utilizar procesos basicos de *Photoshop* asi como explicaciones sobre imagen, perspectivas, balance de color, etc.
+
