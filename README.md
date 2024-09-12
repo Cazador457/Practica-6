@@ -1,4 +1,4 @@
-Angel Beernardino Melquiades
+Angel Bernardino Melquiades
 
 Lenguajes Interpretados.
 Maestro: Jonathan Miranda.
