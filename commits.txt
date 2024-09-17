@@ -1,0 +1,47 @@
+commit df491ba51335ca30a6946570d86dcb9dbc5cbfa0
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 10:06:11 2024 -0600
+
+    No se escribir mi Nombre
+
+commit a0423bd89e562b3c78af4bde96b6c947a473224c
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 10:02:20 2024 -0600
+
+    Ingles
+
+commit 39be1104142331c2d66493d4d1d3a0dc05ede3cd
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 09:57:27 2024 -0600
+
+    Principios de Composicion de Diseño
+
+commit 6d72be62e80e358f8c81014df029b92adfc8965e
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 09:50:26 2024 -0600
+
+    Proyecto Semestral 2
+
+commit 69c7e1ef040fa27b3b4239201ce41832de1c3a53
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 09:45:54 2024 -0600
+
+    Diseño de Juegos
+
+commit 310af1652371c030525b5308de20ea4584e1f370
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 09:39:04 2024 -0600
+
+    Sistemas Operativos
+
+commit 1007a63787e5ce8de2d31b50997e0754788f29e8
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 09:32:14 2024 -0600
+
+    Lenguajes Interpretados
+
+commit 87a75d38b1df3b3c034fab96dc7a3cfcd004b98f
+Author: Angel Bernardino <chiv_157@hotmail.com>
+Date:   Thu Sep 12 09:22:05 2024 -0600
+
+    Primer Commit
