@@ -23,3 +23,5 @@ Aprendimos como utilizar procesos basicos de *Photoshop* asi como explicaciones 
 Ingles B2.
 Maestro: Gonzalo Lezana.
 Solo repasamos en *Present Simple* y el *Present Continuous* (Solo tuvimos 4 clases en el parcial).
+
+Creando la version 1.0.0 de este repositorio.
